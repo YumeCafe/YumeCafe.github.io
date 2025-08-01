@@ -1,5 +1,5 @@
 {
   "admin": ["Nera", "SpoiledBiscuit", "Zetta ǃǃ", "~Mai~Mai~", "❀Lady❀", "DaleOnTour", "ᵂᶤʳᵉᵈ", "Otter (Amber)"],
-  "staff": ["Spoonie", "FoxShyMaid", "Marcute", "Knightlyfe", "I.C", "celestmia", "FoxNyaa", "StarfallGlimmer", "｜ Kitty｜", "CandyM", "Otter （Amber) ", "RisaTheBunny", "zaMiiKawa_ザミ川", "A-56", "Auriaa", "AnnaStarfire", "L ulu", "_BEAR_", "Mayo", "｜ Kitty｜"],
+  "staff": ["Spoonie", "FoxShyMaid", "Marcute", "Knightlyfe", "I.C", "celestmia", "FoxNyaa", "StarfallGlimmer", "｜ Kitty｜", "CandyM", "Otter （Amber) ", "RisaTheBunny", "zaMiiKawa_ザミ川", "A-56", "Auriaa", "AnnaStarfire", "L ulu", "_BEAR_", "Mayo"],
   "fish": ["SpoiledBiscuit"]
 }
