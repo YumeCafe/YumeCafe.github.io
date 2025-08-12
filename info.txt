@@ -13,7 +13,6 @@ We hope you have a lovely stay!</i></align>
 3. Consent always comes first  
 4. No streaming or recording events  
 5. Enjoy & have a good stay~!
-</size>
-</align><align=center>
+</size></align><align=center>
 <size=105%>Join our community: <b>discord.yume.cafe</b></size>
 </align>
