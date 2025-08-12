@@ -8,17 +8,12 @@ focused on delivering a warm and cozy maid cafe experience.
 We hope you have a lovely stay!</i></align>
 
 <align=center><size=110%><u><b>Rules</b></u></size></align>
-
-<align=center>
-<size=105%>
-1. <b>We are 100% SFW</b>  
+<align=center><size=105%>1. <b>We are 100% SFW</b>  
 2. Guests must be in a <b>Poor</b> or better avatar  
 3. Consent always comes first  
 4. No streaming or recording events  
 5. Enjoy & have a good stay~!
 </size>
-</align>
-
-<align=center>
+</align><align=center>
 <size=105%>Join our community: <b>discord.yume.cafe</b></size>
 </align>
