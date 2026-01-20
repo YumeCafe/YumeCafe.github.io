@@ -1,5 +1,5 @@
 {
   "admin": ["Nera", "SpoiledBiscuit", "Zetta ǃǃ", "~Mai~Mai~", "❀Lady❀", "ᵂᶤʳᵉᵈ", "Otter （Amber）", "DaleOnTour"],
-  "staff": ["Spoonie", "FoxShyMaid", "Marcute", "Knightlyfe", "I.C", "celestmia", "FoxNyaa", "StarfallGlimmer", "｜ Kitty｜", "CandyM", "zaMiiKawa_ザミ川", "A-56", "Auriaa", "AnnaStarfire", "L ulu", "_BEAR_", "Mayo", "Just_Josh58", "Decruns", "Pendual", "DoubleSchmo", "Boyney", "Snips_xo", "M1yaVT", "landowicked", "alexcrea", "Evo Skorpion", "BatonWan", "Xeranas", "Astral Cricket", "_ShyShio", "Reddpal", "furuu~", "icecream-neko", "Traveling Ghost", "KierraSynthetic", "Sage___", "ᵇʳᵒᵐᵐ", "Lilith Lycoris", "Yume Host", "Euky", "Ashuray", "Hapyr"],
+  "staff": ["Spoonie", "FoxShyMaid", "Marcute", "Knightlyfe", "I.C", "celestmia", "FoxNyaa", "StarfallGlimmer", "｜ Kitty｜", "CandyM", "zaMiiKawa_ザミ川", "A-56", "Auriaa", "AnnaStarfire", "_BEAR_", "Mayo", "Just_Josh58", "Decruns", "Pendual", "DoubleSchmo", "Boyney", "Snips_xo", "M1yaVT", "landowicked", "alexcrea", "Evo Skorpion", "BatonWan", "Xeranas", "Astral Cricket", "_ShyShio", "Reddpal", "furuu~", "icecream-neko", "Traveling Ghost", "KierraSynthetic", "Sage___", "ᵇʳᵒᵐᵐ", "Lilith Lycoris", "Yume Host", "Euky", "Ashuray", "Hapyr", "WaterFox"],
   "fish": ["SpoiledBiscuit"]
 }
