@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Yume Maid Cafe</title>
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600;800&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --pink: #ffd6e8;
+      --hot-pink: #ff9fc9;
+      --dark: #1a1a1a;
+      --cream: #fff6fb;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Baloo 2', cursive;
+      background: linear-gradient(180deg, #000000 0%, #1b0f17 100%);
+      color: var(--cream);
+      text-align: center;
+    }
+
+    header {
+      padding: 4rem 1rem 3rem;
+    }
+
+    header img {
+      width: 180px;
+      max-width: 70%;
+      margin-bottom: 1.5rem;
+    }
+
+    header h1 {
+      font-size: 3rem;
+      margin: 0.5rem 0;
+      color: var(--pink);
+      letter-spacing: 2px;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      opacity: 0.9;
+    }
+
+    .card {
+      background: rgba(255, 214, 232, 0.08);
+      border-radius: 24px;
+      padding: 2rem;
+      margin: 2rem auto;
+      max-width: 900px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+    }
+
+    h2 {
+      color: var(--hot-pink);
+      font-size: 2.2rem;
+      margin-bottom: 1rem;
+    }
+
+    .features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1.5rem;
+      margin-top: 2rem;
+    }
+
+    .feature {
+      background: rgba(0,0,0,0.4);
+      border-radius: 18px;
+      padding: 1.5rem;
+    }
+
+    .feature span {
+      font-size: 2rem;
+      display: block;
+      margin-bottom: 0.5rem;
+    }
+
+    footer {
+      padding: 2rem 1rem 3rem;
+      font-size: 0.9rem;
+      opacity: 0.7;
+    }
+
+    a.button {
+      display: inline-block;
+      margin-top: 1.5rem;
+      padding: 0.8rem 2rem;
+      border-radius: 999px;
+      background: linear-gradient(135deg, var(--hot-pink), var(--pink));
+      color: #000;
+      text-decoration: none;
+      font-weight: 800;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    a.button:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 20px rgba(255, 159, 201, 0.4);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="Transparent-03.png" alt="Yume Maid Cafe Logo" />
+    <h1>Yume Maid Cafe</h1>
+    <p>A dreamy virtual cafe where magic, maids, and smiles meet ✨</p>
+  </header>
+
+  <section class="card">
+    <h2>Welcome Home, Master & Princess ♡</h2>
+    <p>
+      Yume Maid Cafe is a cozy, pastel‑dream virtual maid cafe focused on warmth,
+      kindness, and a little bit of sparkle. Whether you're here to relax, chat,
+      or be pampered — you're always welcome.
+    </p>
+
+    <div class="features">
+      <div class="feature">
+        <span>☕</span>
+        Hand‑crafted drinks & cozy vibes
+      </div>
+      <div class="feature">
+        <span>🎀</span>
+        Cute maids & butlers with unique charm
+      </div>
+      <div class="feature">
+        <span>🌙</span>
+        Dreamy aesthetic & soft cafe energy
+      </div>
+      <div class="feature">
+        <span>💖</span>
+        A safe, welcoming space for everyone
+      </div>
+    </div>
+
+    <a class="button" href="#">Join Our Cafe</a>
+  </section>
+
+  <footer>
+    © 2026 Yume Maid Cafe · Made with love and a little magic ✨
+  </footer>
+
+</body>
+</html>
