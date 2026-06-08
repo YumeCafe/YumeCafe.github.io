@@ -1,6 +1,6 @@
 {
   "admin": ["Nera", "SpoiledBiscuit", "Zetta ǃǃ", "~Mai~Mai~", "❀Lady❀", "ᵂᶤʳᵉᵈ", "Otter （Amber）", "DaleOnTour"],
-  "staff": ["Spoonie", "FoxShyMaid", "Marcute", "I.C", "FoxNyaa", "StarfallGlimmer", "｜ Kitty｜", "CandyM", "AnnaStarfire", "_BEAR_", "Yoshilicous", "Decruns", "Pendual", "DoubleSchmo", "Boyney", "M1yaVT", "landowicked", "alexcrea", "Evo Skorpion", "Mookk", "Astral Cricket", "_ShyShio", "Reddpal", "icecream-neko", "Traveling Ghost", "KierraSynthetic", "Sage___", "Lilith Lycoris", "Yume Host", "Euky", "Ashuray", "Hapyr", "WaterFox", "Craftsy", "artemisfawn", "rokubeanie", "Pafui", "AG-Roses", "Kai XD", "crow3bar", "~LilTrouble~", "paran0iid", "ItsMeFuyu", "Neko-Neon", "neiomicielo", "artpillasylum", "Khalypsö", "CookieJolt", "_lycor1s_", "ChanningTate", "_~Sylvie~_"],
+  "staff": ["Spoonie", "FoxShyMaid", "Marcute", "I.C", "FoxNyaa", "StarfallGlimmer", "｜ Kitty｜", "CandyM", "AnnaStarfire", "_BEAR_", "Yoshilicous", "Decruns", "Pendual", "DoubleSchmo", "Boyney", "M1yaVT", "landowicked", "alexcrea", "Evo Skorpion", "Mookk", "Astral Cricket", "_ShyShio", "Reddpal", "icecream-neko", "Traveling Ghost", "KierraSynthetic", "Sage___", "Lilith Lycoris", "Yume Host", "Euky", "Ashuray", "Hapyr", "WaterFox", "Craftsy", "artemisfawn", "rokubeanie", "Pafui", "AG-Roses", "Kai XD", "crow3bar", "~LilTrouble~", "paran0iid", "ItsMeFuyu", "Neko-Neon", "neiomicielo", "artpillasylum", "Khalypsö", "CookieJolt", "_lycor1s_", "ChanningTate", "_~Sylvie~_", "Roronoa Lotus", "-Little_Cupid-"],
   "fish": ["SpoiledBiscuit"],
   "alcoholic": ["Evo Skorpion","~Horou"]
 }
